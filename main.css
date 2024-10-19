@@ -1,0 +1,36 @@
+.bor{
+    height: 200vh;
+    background-image: url(./flower.jpg);
+    background-repeat: no-repeat;
+   background-size: cover;
+}
+img{
+    float: left;
+    height:300px;
+    width: 400px;
+}
+p{
+    text-align: center;
+    background-color: beige;
+    font-weight: 600;
+    font-family: "Playwrite GB S", cursive;
+}
+h2{
+    text-align: center;
+    background-color: beige;
+    font-weight: 700;
+    font-family: "Playwrite GB S", cursive;
+    
+}
+.dina{
+    border-style:double;
+    border-width: 5px;
+    border-color: rgb(236, 228, 117);
+   height: 300px;
+   background-color: beige;
+}
+
+.clear{
+    clear: both;
+}
+
